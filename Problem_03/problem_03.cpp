@@ -10,7 +10,6 @@
 
 using namespace std;
 
-
 int main() {
   long roof = 600851475143;
   long num = 2;
